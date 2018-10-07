@@ -1,0 +1,31 @@
+# Netscape HTTP Cookie File
+
+.xueqiu.com	TRUE	/	FALSE		_ga	GA1.2.1515739558.1538464000
+.xueqiu.com	TRUE	/	FALSE		_gid	GA1.2.702817285.1538893768
+.xueqiu.com	TRUE	/	FALSE		bid	e7653e9ef744664f6d7a70b67f1035bb_jmuo90kq
+.xueqiu.com	TRUE	/	FALSE		device_id	9a8e87a3f19c060e0dd6168c4295c912
+.xueqiu.com	TRUE	/	FALSE		Hm_lpvt_1db88642e346389874251b5a1eded6e3	1538899711
+.xueqiu.com	TRUE	/	FALSE		Hm_lvt_1db88642e346389874251b5a1eded6e3	1538464000,1538662487
+.xueqiu.com	TRUE	/	FALSE		remember	1
+.xueqiu.com	TRUE	/	FALSE		remember.sig	K4F3faYzmVuqC0iXIERCQf55g2Y
+.xueqiu.com	TRUE	/	FALSE		s	fi11dyr336
+.xueqiu.com	TRUE	/	FALSE		snbim_minify	true
+.xueqiu.com	TRUE	/	FALSE		u	1458321036
+.xueqiu.com	TRUE	/	FALSE		u.sig	KpUrOxlkHTH4ZX3WS9p-2yPf_pc
+.xueqiu.com	TRUE	/	FALSE		xq_a_token	1a90879556382ea403482a2110ed55d5f6c5e917
+.xueqiu.com	TRUE	/	FALSE		xq_a_token.sig	R8DtEjyiWPVfEFDDkRyvB7WYCl0
+.xueqiu.com	TRUE	/	FALSE		xq_is_login	1
+.xueqiu.com	TRUE	/	FALSE		xq_is_login.sig	J3LxgPVPUzbBg3Kee_PquUfih7Q
+.xueqiu.com	TRUE	/	FALSE		xq_r_token	4fa760a11638efe8b7118040607109720e0ba55c
+.xueqiu.com	TRUE	/	FALSE		xq_r_token.sig	Qe7v-VElwYdDTKNM3saapPLrP0c
+.xueqiu.com	TRUE	/	FALSE		xq_token_expire	Mon%20Oct%2029%202018%2023%3A09%3A56%20GMT%2B0800%20(CST)
+.xueqiu.com	TRUE	/	FALSE		xqat	1a90879556382ea403482a2110ed55d5f6c5e917
+.xueqiu.com	TRUE	/	FALSE		xqat.sig	wXWBXdpLaUvGsaIR_po8GYrxemg
+xueqiu.com	FALSE	/	FALSE		__utma	1.1515739558.1538464000.1538665813.1538899674.4
+xueqiu.com	FALSE	/	FALSE		__utmb	1.2.10.1538899674
+xueqiu.com	FALSE	/	FALSE		__utmc	1
+xueqiu.com	FALSE	/	FALSE		__utmt	1
+xueqiu.com	FALSE	/	FALSE		__utmz	1.1538464016.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+xueqiu.com	FALSE	/	FALSE		aliyungf_tc	AQAAAMvbL0KACQoApPZEZfji0V3ruRGg
+xueqiu.com	FALSE	/	FALSE		gsScrollPos-2050630674	
+xueqiu.com	FALSE	/p	FALSE		gsScrollPos-2050630696	0
