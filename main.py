@@ -19,8 +19,9 @@ def initOpener():
 
 def requestHistory(opener, cube_symbol, page):
     url = 'https://xueqiu.com/cubes/rebalancing/history.json?cube_symbol={}&count=20&page={}'
+    ssl._create_default_https_context = ssl._create_unverified_context
     historyUrl = url.format(cube_symbol, page)
-    req = request.Request(url=historyUrl,headers=header)
+    req = request.Request(url=historyUrl, headers=header)
     response = opener.open(req)
 
     content = response.read().decode()
@@ -56,7 +57,7 @@ def getAllHistory(opener, cube_symbol):
 def getSymbol(opener, cube_symbol):
     list = getAllHistory(opener, cube_symbol)
     listStr = json.dumps(list)
-    saveJsonFile(listStr, './symbols'+cube_symbol+'.json')
+    saveJsonFile(listStr, './symbols/'+cube_symbol+'.json')
 
 def getAllSymbol():
     jsonToTxt()
