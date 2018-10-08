@@ -56,7 +56,7 @@ def getAllHistory(opener, cube_symbol):
 def getSymbol(opener, cube_symbol):
     list = getAllHistory(opener, cube_symbol)
     listStr = json.dumps(list)
-    saveJsonFile(listStr, cube_symbol+'.json')
+    saveJsonFile(listStr, './symbols'+cube_symbol+'.json')
 
 def getAllSymbol():
     jsonToTxt()
